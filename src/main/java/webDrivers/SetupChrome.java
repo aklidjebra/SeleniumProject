@@ -18,8 +18,6 @@ public class SetupChrome {
         driver.get (url);
 
 
-
-
 return driver;
 
     }
